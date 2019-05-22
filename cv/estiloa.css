@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body{
+	font-family: 'Roboto Slab', serif;
+	margin: 0;
+	padding: 0;
+}
+#encabezado{
+	font-size: 20pt;
+	height: auto;
+	background: #f4c842;
+	margin-top: 60px background: #00a3c4;
+}
+
+#encabezado>h1{
+	text-align: center;
+}
+.txt>h2{
+	text-align: center
+}
+
+.bordes{
+	width: 100%;
+	float: left;
+	border-top: dashed black;
+	background: #00a3c4;
+}
+
+.foto{
+	margin-top: 3rem;
+	width: 30%;
+	float: left;
+	background: #00a3c4;
+}
+
+.txt{
+	width: 65%;
+	float: left;
+	margin-top: 3%;
+	font-size: 25pt;
+	background: #00a3c4;
+}
+
+.pic{
+	height: 15rem;
+	border-radius: 100%;
+	border: solid 10px #f4c842;
+	margin-left: 25%;
+	background: #00a3c4;
+}
+.info>h3{
+	text-align: left;
+	font-size: 25pt;
+	margin-left: 45%;
+	
+}
+.bordes2{
+	width: 100%;
+	float: left;
+	background-image: linear-gradient(#00a3c4, #f4c842); 
+}
+.datos{
+	width: 20%;
+	margin-left: 10%;
+	float: left;
+}
+.datos2{
+	width: 60%;
+	float: left;
+	border-bottom: 3px solid #000000;
+}
+.educacion{
+	width: 40%;
+	float: left;
+	text-align: center;
+	font-size: 25pt;
+}
+.formacion{
+	width: 20%;
+	float: left; 
+	margin-left: 20%;
+}
+.lugares{
+	width: 50%;
+	float: left;
+	border-bottom: 3px solid #000000;
+}
+.contactinfo{
+	width: 100%;
+	float: left;
+	font-size: 25pt;
+	text-align: center;
+}
+.imagenes{
+	width: 5%;
+	float: left;
+	margin-left: 10%;
+	border-bottom: #000000;
+}
+.contact{
+	width: 20%;
+	text-align: left;
+	float: left;
+
+}
+.contact>h3{
+	margin: 0;
+	padding: 0;
+}
+.datos3{
+	width: 55%;
+	text-align: left;
+	float: left;
+	margin: 0;
+	padding: 0;
+	border-bottom: 3px solid #000000
+}
+.programs{
+	width: 100%;
+	text-align: center;
+	float: left;
+	font-size: 25pt;
+}
+.programas{
+	width: 15%;
+	float: left;
+	margin-left: 10%;
+}
+.manejo{
+	float: left;
+	width: 40%;
+	margin: 2;
+	padding: 0;
+}
+#footer{
+	background: #13316f;
+	width: 100%;
+	float: left;
+}
+.textofinal{
+	font-family: 'Roboto Slab', serif;
+	font-size: 20pt;
+	color: white;
+	text-align: center;
+}

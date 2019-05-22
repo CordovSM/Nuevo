@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+body{
+	font-family: 'Orbitron', sans-serif;
+	width: 100%;
+	background: url(fondo.jpg);
+}
+#encabezado{
+	width: 75%;
+	height: auto;
+	margin: auto;
+	display: block;
+	background: white;
+}
+.nasa{
+	width: 25%;
+	float: left;
+}
+.txt{
+	float: left;
+	width: 50%;
+	color: white;
+	font-size: 15pt;
+}
+.section{
+	width: 100%;
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 3% 30px 3% 30px;
+}
+.formulario{
+	width: 45%;
+	float: left
+	color: white;
+	margin-left: 400px;
+	text-align: justify;
+}
